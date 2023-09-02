@@ -1,5 +1,5 @@
 # BNPP-Project
-This repo contains the code that I submited to outcoder.ai Genhack AI Competition on Generative Financial Modelling  of Financial Dataset. Our model was ranked under top 10 position out 1000 other Participants.
+This repo contains the code that I submited to outcoder.ai Genhack AI Competition on Generative Financial Modelling  of Financial Dataset. Our model was ranked under top 10 out 1000 other Participants.
 
 # Top 10 | Genhack AI Competition | Generative Financial Modelling | Outcoder.ai & BNP Paribas
 
